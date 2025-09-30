@@ -12,7 +12,7 @@
 **Infrastructure Requirements:**
 
 - [List hardware/software requirements]
-- [List internet/cloud needs]
+- desktop
 
 **Assessment:** [Feasible/Not Feasible/Conditional]
 **Reasoning:** [Brief explanation]
