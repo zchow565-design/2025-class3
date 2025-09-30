@@ -7,7 +7,7 @@
 **Available Technology:**
 
 - Vscode
-- [List required skills]
+- C++
 
 **Infrastructure Requirements:**
 
