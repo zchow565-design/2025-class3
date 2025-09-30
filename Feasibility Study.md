@@ -6,7 +6,7 @@
 
 **Available Technology:**
 
-- [List tools/software needed]
+- Vscode
 - [List required skills]
 
 **Infrastructure Requirements:**
